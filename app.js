@@ -1,5 +1,5 @@
 let listaDeNumerosSorteados = [ ]; // variável da lista dos numeros sorteados pra evitar repetição
-let numeroLimite = 10;
+let numeroLimite = 100;
 let numeroSecreto = gerarNumeroAleatorio ( );
 let tentativas = 1;
 
